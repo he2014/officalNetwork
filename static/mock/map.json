@@ -1,0 +1,14 @@
+{
+  "code":"00",
+  "data":[
+    {"name":"北京","value":"2","schools":[{"name":"北京一号园","phone":"(010)-6506-1911","code":"../../src/assets/image/home_qrcode_weixin.png"},{"name":"北京红庙园","phone":"18862850006","code":"../../src/assets/image/home_qrcode_weixin.png"}]},
+    {"name":"天津","value":"1","schools":[{"name":"天津一号园","phone":"(010)-6506-1911","code":"../../src/assets/image/home_qrcode_weixin.png"}]},
+    {"name":"上海","value":"1","schools":[{"name":"上海一号园","phone":"(010)-6506-1911","code":"../../src/assets/image/home_qrcode_weixin.png"}]},
+    {"name":"广东","value":"1","schools":[{"name":"广东一号园","phone":"(010)-6506-1911","code":"../../src/assets/image/home_qrcode_weixin.png"}]},
+    {"name":"江苏","value":"1","schools":[{"name":"江苏一号园","phone":"(010)-6506-1911","code":"../../src/assets/image/home_qrcode_weixin.png"}]},
+    {"name":"辽宁","value":"1","schools":[{"name":"辽宁一号园","phone":"(010)-6506-1911","code":"../../src/assets/image/home_qrcode_weixin.png"}]},
+    {"name":"山东","value":"1","schools":[{"name":"山东一号园","phone":"(010)-6506-1911","code":"../../src/assets/image/home_qrcode_weixin.png"}]},
+    {"name":"湖南","value":"1","schools":[{"name":"湖南一号园","phone":"(010)-6506-1911","code":"../../src/assets/image/home_qrcode_weixin.png"}]},
+    {"name":"河南","value":"1","schools":[{"name":"河南一号园","phone":"(010)-6506-1911","code":"../../src/assets/image/home_qrcode_weixin.png"}]}
+  ]
+}
